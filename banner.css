@@ -1,0 +1,24 @@
+.banner{
+    height: 45vh;
+    background: url("https://images.meesho.com/images/marketing/1760553615790.webp");
+    /* border: 1px solid black; */
+    background-size: cover;
+    display: flex;
+    padding-top: 15vh;
+    padding-left: 75vw;
+}
+#Text1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+.shopnow1{
+    width: 20vw;
+    line-height: 70px;
+}
+#button1{
+    width: 12.5vw;
+    height: 5vh;
+    font-size: x-large;
+    border-radius: 5px;
+}

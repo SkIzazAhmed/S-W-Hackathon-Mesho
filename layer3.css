@@ -1,0 +1,9 @@
+.layer3{
+    padding: 40px;
+}
+.layer31{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+}
